@@ -74,10 +74,10 @@ CINEXTMA is licensed under the [MIT License](LICENSE). This means you are free t
 
 ## Star History
 
-<a href="https://www.star-history.com/#wisnuwirayuda15/viewflix&Timeline">
+<a href="https://www.star-history.com/#steveyout/cinextma&Timeline">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=wisnuwirayuda15/viewflix&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=wisnuwirayuda15/viewflix&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=wisnuwirayuda15/viewflix&type=Timeline" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=steveyout/cinextma&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=steveyout/cinextma&type=Timeline" />
  </picture>
 </a>
